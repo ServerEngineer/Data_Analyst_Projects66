@@ -1,4 +1,4 @@
-# Excel_project
+# Excel_projects
 These are three Excel projects, professionally classified as Paginated Reports designed in a stakeholder-focused reporting style.
 The projects make extensive use of advanced Excel functionalities, including combining multiple tables using Power Pivot for robust data modeling.
 A Star Schema was implemented with one fact table and multiple dimension tables, ensuring accurate relationships and scalability.
